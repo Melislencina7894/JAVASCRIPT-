@@ -97,8 +97,3 @@ for ( let i=1 ; i <= 20 ; i++) {
  return alert("Ejercicio finalizado");
 }
 
-for (let i=11 ; i<3 ; i++){
-  for (let j=0 ; j<3 ; i++){ 
-  console.log ( i + "," + j);
-}
-}
